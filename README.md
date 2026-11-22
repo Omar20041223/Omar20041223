@@ -1,29 +1,46 @@
 <h1 align="center">Hi 👋, I'm Omar Mohamed</h1>
-<h3 align="center">Flutter Developer | Computer Science Student</h3>
+<h3 align="center">Flutter Developer | B.Sc. Computer Science</h3>
 
 <p align="center">
-Passionate about building scalable mobile applications with Flutter, Clean Architecture, and REST APIs.
+Flutter developer with production experience, building scalable mobile applications with MVVM, Bloc/Cubit, and REST APIs — including a live app on Google Play and the App Store.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-* 🎓 Computer Science Student
-* 📱 Flutter Developer
-* 🚀 Interested in Mobile Development, AI Integration, and Backend Technologies
-* 💼 Open to Internship and Junior Flutter Opportunities
-* 🔭 Currently working on **Smart Medi**
+* 🎓 B.Sc. Computer Science, Zagazig University (2022–2026) — Graduated with Excellent
+* 📱 Flutter Developer — Noor Way, Ostazi, Smart Medi
+* 💼 DEPI Flutter Developer Intern (Jun–Dec 2025)
+* 🚀 Interested in Mobile Development, App Architecture, and Backend Integration
+* 💼 Open to Junior Flutter Developer Opportunities
+* 🔭 Currently working on **Ostazi**
 
 ---
 
 ### 🚀 Featured Projects
 
+#### ☀️ Noor Way — طريق النور
+
+Connects users with Islamic scholars, Muftis, Quran teachers, and Sharia committee members. Implementing Flutter developer (not owner/publisher). Live on Google Play and the App Store.
+
+**Tech Stack:** Flutter • Bloc • Dio • ASP.NET REST API • GoRouter • Google Maps
+
+🔗 [Google Play](https://play.google.com/store/apps/details?id=com.almutairi.tareeqalnoor) • [App Store](https://apps.apple.com/eg/app/noor-way-%D8%B7%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D9%86%D9%88%D8%B1/id6816675701)
+
 #### 🏥 Smart Medi
 
 Healthcare appointment booking application.
 
-**Tech Stack:** Flutter • Bloc • Dio • REST APIs
+**Tech Stack:** Flutter • Bloc • Dio • REST APIs • GoRouter • GetIt • Secure Storage
+
+🔗 [Repository](https://github.com/Smart-Medc/Smart-Medi-Flutter)
+
+#### 👨‍🏫 Ostazi
+
+Educational app for teacher profiles and services — in active development.
+
+**Tech Stack:** Flutter • Cubit • GoRouter • REST APIs
 
 #### 📚 Bookly
 
